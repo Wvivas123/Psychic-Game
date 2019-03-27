@@ -1,0 +1,42 @@
+body {
+  background-color: #fff4e3;
+}
+
+#Peanutbutter {
+  margin-left: 500px;
+  border-radius: 50%;
+  border-style: solid;
+  border-color: #5d5d5a;
+  border-width: 10px;
+}
+
+.game {
+  background-color: #ffcdab;
+  text-align: center;
+  width: 500px;
+  margin-left: 375px;
+  height: 300px;
+  border-style: solid;
+  border-color: #5d5d5a;
+  border-width: 10px;
+  font-family: monospace;
+  margin-top: 20px;
+  color: #5d5d5a;
+}
+
+.bottom_text {
+  text-align: center;
+  padding: 20px;
+}
+
+h1 {
+  font-family: fantasy;
+  margin-left: 50px;
+
+}
+
+audio{
+
+  margin-left: 490px;
+
+}
